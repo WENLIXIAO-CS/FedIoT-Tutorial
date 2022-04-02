@@ -20,8 +20,6 @@
 
       Install system https://stepneverstop.github.io/burn-system2raspberry-in-macos.html
 
-      Install matplotlib sudo pip3 install --no-cache-dir matplotlib
-
       Make Back-up https://blog.csdn.net/qq_33273956/article/details/87863553
 
       Enlarge storage https://blog.csdn.net/jumpingpig/article/details/105435543
