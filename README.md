@@ -1,7 +1,6 @@
 # Tutorial for Fed-IoT
 
 
-
 ## A bit of Setup
 
 ### Set up Server
@@ -13,7 +12,41 @@
 - Install necessary python package
 
 ### Set up Client
-- Install necessary python package
+- Note for Raspberry Pi
+    
+    - OS Installation
+      
+      Install  https://www.bilibili.com/read/cv4023024/
+
+      Install system https://stepneverstop.github.io/burn-system2raspberry-in-macos.html
+
+      Install matplotlib sudo pip3 install --no-cache-dir matplotlib
+
+      Make Back-up https://blog.csdn.net/qq_33273956/article/details/87863553
+
+      Enlarge storage https://blog.csdn.net/jumpingpig/article/details/105435543
+
+      Install GUI https://my.oschina.net/yehun/blog/893241
+
+    - Software Problems
+      
+      Solve the problem of load model https://stackoverflow.com/questions/43385565/importerrorsave-weights-requires-h5py/47856532
+      
+      WIFI configuration https://zhuanlan.zhihu.com/p/136463580
+      
+      Solve WIFI problem https://raspberrypi.stackexchange.com/questions/94178/wifi-wont-start
+      
+      Search for WLAN0 https://blog.csdn.net/zhqh100/article/details/103137477
+
+    - Network Problems
+      
+      Teamviewer for Linux https://blog.csdn.net/realDonaldTrump/article/details/79694196
+      
+      VNC for Linux https://blog.csdn.net/u010900754/article/details/53048998
+      
+      Solve SSH Problem: `vim ~/.ssh/known_hosts`, remove corresponding IP
+
+
 
 ### Set up Network (WIFI)
 1. Turn on WIFI router
